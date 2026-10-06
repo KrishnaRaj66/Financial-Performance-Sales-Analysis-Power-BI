@@ -72,22 +72,22 @@ This dashboard is designed to answer:
 
 ### Executive Summary
 
-![Executive Summary](<img width="1162" height="707" alt="Screenshot 2026-10-06 153437" src="https://github.com/user-attachments/assets/0807abdb-11f1-4420-930b-35053c82ddf2" />
+![Profit by Business Unit and expense analysis]((https://github.com/KrishnaRaj66/Financial-Performance-Sales-Analysis-Power-BI/blob/main/Screenshot%202026-10-06%20153437.png)
 )
 
-### Profit & Expenses Analysis
+### financial-performance-dashboard
 
-![Profit by Business Unit and expense analysis](<img width="1192" height="725" alt="Screenshot 2026-10-06 153418" src="https://github.com/user-attachments/assets/6692f556-7a4b-44a1-8540-7b46eceebd61" />
+![Sales Growth](https://github.com/KrishnaRaj66/Financial-Performance-Sales-Analysis-Power-BI/blob/main/Screenshot%202026-10-06%20153418.png
 )
 
 ### Financial Summary
 
-![Year, Revenue, Total Expenses and Profit](<img width="1176" height="722" alt="Screenshot 2026-10-06 153451" src="https://github.com/user-attachments/assets/58eba683-2b49-40d9-b5be-3cccfdc7dcca" />
+![Year, Revenue, Total Expenses and Profit](https://github.com/KrishnaRaj66/Financial-Performance-Sales-Analysis-Power-BI/blob/main/Screenshot%202026-10-06%20153451.png
 )
 
 ### Detailed Analysis
 
-![detailed transaction-level view](<img width="1067" height="775" alt="Screenshot 2026-10-06 153505" src="https://github.com/user-attachments/assets/ab054ac6-b4ba-459e-9c24-5c4cf7d61e3e" />
+![detailed transaction-level view](https://github.com/KrishnaRaj66/Financial-Performance-Sales-Analysis-Power-BI/blob/main/Screenshot%202026-10-06%20153505.png
 )
 
 ## 👨‍💻 Author
